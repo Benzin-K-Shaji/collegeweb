@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Home</title>
 </head>
 <ul class="nav justify-content-end">
   <li class="nav-item">
@@ -15,7 +15,7 @@
   </ul>
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color:green">
     <div class="container-fluid">
-      <a class="navbar-brand" href="about.php"><img src="https://lh3.googleusercontent.com/proxy/MQgEcXeXBDnu8zx55cM5xXQtqj57kRM2smQrCmKwwq6NHDOo1lYXId5tSwgdUj5YPDaEhEkqNZWXNeDZ2khLLfIkK8Ukq_-J" alt="" class="">RCSS</a>
+      <a class="navbar-brand" href="index.php"><img src="https://lh3.googleusercontent.com/proxy/MQgEcXeXBDnu8zx55cM5xXQtqj57kRM2smQrCmKwwq6NHDOo1lYXId5tSwgdUj5YPDaEhEkqNZWXNeDZ2khLLfIkK8Ukq_-J" alt="" class=""></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
